@@ -6,7 +6,9 @@
     "files": [
         "README.md",
         "main.blocks",
-        "main.ts"
+        "main.ts",
+        "testfile.cpp",
+        "testfile.ts"
     ],
     "testFiles": [
         "test.ts"
